@@ -1,1 +1,1 @@
-# Tinder-Filter-And-Like-Automatic
+# Tinder-Auto-Liker
